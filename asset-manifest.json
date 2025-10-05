@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/mycrew-mockup-deploy/static/css/main.e0983a73.css",
+    "main.js": "/mycrew-mockup-deploy/static/js/main.ce7e6aa3.js",
+    "index.html": "/mycrew-mockup-deploy/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e0983a73.css",
+    "static/js/main.ce7e6aa3.js"
+  ]
+}
